@@ -16,7 +16,7 @@ namespace avaness.MESInhibitorPlugin
     [MySessionComponentDescriptor(MyUpdateOrder.BeforeSimulation)]
     public class InhibitorConfigComponent : MySessionComponentBase
     {
-        private const string ModularEncountersId = "1521905890";
+        private const string ModularEncountersId = "750855";
 
         private bool init = false;
         private InhibitorConfig config;
